@@ -1,0 +1,4 @@
+[submodule "spring-integration-fork"]
+	path = spring-integration-fork
+	url = https://github.com/Nephery/spring-integration.git
+	branch = fix-noop-observability
